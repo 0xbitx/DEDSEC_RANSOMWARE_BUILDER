@@ -25,7 +25,7 @@ DedSec Ransomware automatically sends the victim's unique decryption key, along 
   * can disable realtime defender
   * can disable automatic sample submission
   * can disable tamper protection
-  * support 7/8/10/11 windows version 
+  * support 10/11 windows version 
 
     
 <h3 align="center"> RANSOMWARE WALLPAPER</h3>
