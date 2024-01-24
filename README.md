@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center"> DEDSEC_RANSOMWARE_BUILDER</h1>
-<h4 align="center">DEDSEC_RANSOMWARE_BUILDER is linux based ransomware tool that can create a fully offline ransomware exe.</h4>
+<h4 align="center">DEDSEC_RANSOMWARE_BUILDER is linux based ransomware builder tool that can create a fully offline windows ransomware executable.</h4>
 
 ## DESCRIPTION
 DedSec Ransomware A powerful ransomware tool designed to encrypt victims files with military-grade encryption. Simply encrypt your files using DedSec encryption, and only with the unique decryption key, your files can be restored to their original state.
@@ -21,7 +21,8 @@ DedSec Ransomware automatically sends the victim's unique decryption key, along 
   * customable name
   * customable wallpaper
   * customable music
-  * customable exe size default: 20MB 
+  * customable exe size default: 20MB
+  * support 7/8/10/11 windows version 
 
     
 <h3 align="center"> RANSOMWARE WALLPAPER</h3>
