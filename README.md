@@ -24,9 +24,9 @@ DedSec Ransomware automatically sends the victim's unique decryption key, along 
   * customable exe size default: 20MB 
 
     
-<h3 align="center"> RANSOMWARE MESSAGE</h3>
+<h3 align="center"> RANSOMWARE WALLPAPER</h3>
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_RANSOMWARE/blob/master/ransom.png", width="900", height="900">
+<img src="https://github.com/0xbitx/DEDSEC_RANSOMWARE_BUILDER/blob/main/wallpaper.png", width="900", height="900">
 </p>
 
 
