@@ -22,6 +22,7 @@ DedSec Ransomware automatically sends the victim's unique decryption key, along 
   * customable music
   * customable exe size default: 20MB
   * single executable (no need external lib and ransomware exe use for decryption too)
+  * threading for large files
   * can disable realtime defender
   * can disable automatic sample submission
   * can disable tamper protection
