@@ -11,13 +11,11 @@
 DedSec Ransomware A powerful ransomware tool designed to encrypt victims files with military-grade encryption. Simply encrypt your files using DedSec encryption, and only with the unique decryption key, your files can be restored to their original state.
 
 ## RANSOMWARE EXECUTABLE FEATURES
-  * change wallpaper to dedsec ransom note (automatically change wallpaper to default if all files successfully decrypted)
+  * change wallpaper to dedsec ransom note (automatically change wallpaper to default if victim pay  decryption key)
   * play background music dedsec ransom note (Force in max volume )
   * pop-up ransom note window
   * customable icon
   * customable name
-  * customable wallpaper
-  * customable music
   * customable exe size default: 20MB
   * single executable (no need external lib and ransomware exe use for decryption too)
   * support 10/11 windows version 
