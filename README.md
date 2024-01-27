@@ -10,8 +10,6 @@
 ## DESCRIPTION
 DedSec Ransomware A powerful ransomware tool designed to encrypt victims files with military-grade encryption. Simply encrypt your files using DedSec encryption, and only with the unique decryption key, your files can be restored to their original state.
 
-DedSec Ransomware automatically sends the victim's unique decryption key, along with Unique ID, IP address, and username to a designated Discord server. This feature ensures that you have quick access to their information and decryption key.
-
 ## RANSOMWARE EXECUTABLE FEATURES
   * change wallpaper to dedsec ransom note (automatically change wallpaper to default if all files successfully decrypted)
   * play background music dedsec ransom note (Force in max volume )
@@ -22,10 +20,6 @@ DedSec Ransomware automatically sends the victim's unique decryption key, along 
   * customable music
   * customable exe size default: 20MB
   * single executable (no need external lib and ransomware exe use for decryption too)
-  * threading for large files
-  * can disable realtime defender
-  * can disable automatic sample submission
-  * can disable tamper protection
   * support 10/11 windows version 
 
     
