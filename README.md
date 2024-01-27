@@ -20,7 +20,10 @@ DedSec Ransomware A powerful ransomware tool designed to encrypt victims files w
   * single executable (no need external lib and ransomware exe use for decryption too)
   * support 10/11 windows version 
 
-    
+## HOW TO USE
+    * ICON: any icon with png format
+    * VIRUS NAME: ANYNAME [default is ghosty]
+  
 <h3 align="center"> RANSOMWARE WALLPAPER</h3>
 <p align="center">
 <img src="https://github.com/0xbitx/DEDSEC_RANSOMWARE_BUILDER/blob/main/wallpaper.png", width="900", height="900">
