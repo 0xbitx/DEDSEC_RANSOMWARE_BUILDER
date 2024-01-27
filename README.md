@@ -16,7 +16,8 @@ DedSec Ransomware A powerful ransomware tool designed to encrypt victims files w
   * pop-up ransom note window
   * customable icon
   * customable name
-  * customable exe size default: 20MB
+  * customable email (for payment)
+  * customable exe size (default 20mb)
   * single executable (no need external lib and ransomware exe use for decryption too)
   * support 10/11 windows version 
 
