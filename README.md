@@ -42,6 +42,13 @@ DedSec Ransomware A powerful ransomware tool designed to encrypt victims files w
 * Kali Linux 
 * Parrot OS 
 
+
+#### VIRUSTOTAL RESULT [ if you are paranoid about running someone else's tool ]
+| tool name | checksum                | Link |
+| :-------- | ------------------------- | --------- |
+| dedsec_ransomware   | 31499d747b7ff1287f2bdbec888314d1e83c0bfa0e2a5da8c50173d60eec9531 | https://www.virustotal.com/gui/file/31499d747b7ff1287f2bdbec888314d1e83c0bfa0e2a5da8c50173d60eec9531  |
+
+
 ## Support
 
 If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
