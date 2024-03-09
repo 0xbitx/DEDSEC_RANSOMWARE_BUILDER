@@ -22,7 +22,7 @@ DedSec Ransomware A powerful ransomware tool designed to encrypt victims files w
 
 ## HOW TO USE
     * ICON: any icon with png format
-    * VIRUS NAME: ANYNAME [default is ghosty]
+    * RANSOMWARE NAME: ANYNAME [default is ghosty]
   
 <h3 align="center"> RANSOMWARE WALLPAPER</h3>
 <p align="center">
