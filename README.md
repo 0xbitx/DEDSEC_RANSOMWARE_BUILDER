@@ -22,7 +22,8 @@ DedSec Ransomware A powerful ransomware tool designed to encrypt victims files w
 
 ## HOW TO USE
     * ICON: any icon with png format
-    * RANSOMWARE NAME: ANYNAME [default is ghosty]
+    * NAME: ANYNAME [default is ghosty]
+    * EMAIL: [ default to ransomware@email.net ]
   
 <h3 align="center"> RANSOMWARE WALLPAPER</h3>
 <p align="center">
