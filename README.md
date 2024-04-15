@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://media4.giphy.com/media/XGi7sQQZhEa0z9h99D/200.webp?cid=790b7611oj8x9im99sqbjbtziuey0xmv4u4kzthr4sey7uxk&ep=v1_gifs_search&rid=200.webp&ct=g", width="500", height="500">
+<img src="https://i.pinimg.com/736x/73/1a/83/731a830193b6d55ead46135898595f17.jpg", width="400", height="400">
 </p>
 
 <h1 align="center"> DEDSEC_RANSOMWARE_BUILDER</h1>
