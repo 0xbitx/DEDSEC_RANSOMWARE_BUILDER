@@ -43,6 +43,19 @@ DedSec Ransomware A powerful ransomware tool designed to encrypt victims files w
 * Kali Linux 
 * Parrot OS 
 
+## sources about dedsec ransomware
+[watchguard.com](https://www.watchguard.com/wgrd-security-hub/ransomware-tracker/dedsec)
+
+[pcrisk.com](https://www.pcrisk.com/removal-guides/28876-dedsec-ransomware)
+
+[eset.com](https://forum.eset.com/topic/42173-malware-hashes/page/3/)
+
+[howtofix.guide](https://howtofix.guide/dedsec-virus/)
+
+[pcsafetygeek.com](https://pcsafetygeek.com/remove-dedsec-ransomware/)
+
+[youtube.com](https://www.youtube.com/watch?v=qdy2PL_KZ8U)
+
 ## Support
 
 If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
