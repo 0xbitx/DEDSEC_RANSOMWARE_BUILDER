@@ -1,4 +1,5 @@
-
+> [!CAUTION]
+> The project was being misused for personal gain by unauthorized parties. To prevent further abuse, the source code has been taken down.
 
 <p align="center">
 <img src="https://i.pinimg.com/736x/73/1a/83/731a830193b6d55ead46135898595f17.jpg", width="400", height="400">
